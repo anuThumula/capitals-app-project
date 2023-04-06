@@ -1,0 +1,54 @@
+/* Write your CSS here */
+.bg-cont {
+  background-color: #93c5fd;
+  height: 100vh;
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+}
+.card-cont {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  border-radius: 9px;
+  background-color: #f8fafc;
+  height: 66vh;
+  width: 70vw;
+}
+
+.heading {
+  color: #000000;
+  text-align: center;
+  font-family: roboto;
+  font-weight: bold;
+}
+
+.select-cont {
+  font-family: roboto;
+  display: flex;
+  justify-content: center;
+}
+
+.select-capital {
+  font-family: roboto;
+  font-weight: bold;
+}
+.option {
+  color: #323f4b;
+  font-family: roboto;
+}
+
+.para {
+  margin-left: 10px;
+  color: #1e293b;
+  font-family: roboto;
+}
+
+.country {
+  color: #000000;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: roboto;
+  text-align: center;
+}
